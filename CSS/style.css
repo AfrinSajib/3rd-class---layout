@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blue;
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+}
+.banner{
+background-color: black;
+text-align: center;
+height: 200px;
+color: aliceblue;
+}
+.about{
+display: flex;
+}
+.left{
+    width: 50%;
+    height: 200px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.right{
+    width: 50%;
+    height: 200px;
+    background-color: beige;
+    text-align: center;
+    color: blue;
+}
+.feature{
+display: flex;
+}
+.First{
+width: 33.3%;
+height: 200px;
+background-color: blueviolet;
+text-align: center;
+color: aliceblue;
+}
+.Second{
+    width: 33.3%;
+    height: 200px;
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+}
+.Third{
+    width: 33.3%;
+    height: 200px;
+    background-color: cadetblue;
+    text-align: center;
+    color: black;
+}
+.ads{
+display: flex;
+}
+.ads_left{
+width: 30%;
+height: 200px;
+background-color: bisque;
+text-align: center;
+color: brown;
+}
+.ads_right{
+width: 70%;
+height: 200px;
+background-color: darkslategray;
+text-align: center;
+color: aliceblue;
+}
+footer{
+    background-color: blue ;
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+}
